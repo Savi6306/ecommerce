@@ -1,0 +1,7 @@
+/* resources/css/app.css */
+body {
+  font-family: sans-serif;
+}
+body {
+  padding-top: 70px; /* matches navbar height */
+}
